@@ -100,6 +100,10 @@ https://github.com/user-attachments/assets/4b7f019f-d1cb-44ca-b2bf-3938a255c69f
 
 - **Status Indicator:** Green "Sorted!" banner when complete
 
+#### Flowchart:
+
+![Untitled Diagram](https://github.com/user-attachments/assets/a61d3e50-3202-4b44-8218-ffd5083bc945)
+
 ## Steps to Run
 1. Enter a comma-separated list of numbers in the input box (for example: 5, 3, 1, 2).
 2. Click "Start" to initialize the visualization.
